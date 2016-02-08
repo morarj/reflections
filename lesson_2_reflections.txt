@@ -5,3 +5,10 @@ but you might get errors or unwated results so you can go back easily to
 a functioning state.
 
 ---------------------------------------------------------------------------
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+Its just a previos stage in which you can choose which files you're going
+to put into a new commit. Offers your the versatility to choose which 
+files you're going to put into your commits.
+
+---------------------------------------------------------------------------
