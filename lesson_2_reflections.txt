@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+The directory is then "flagged" as a repository which will start saving our
+versions. Its very useful if your pllanning on editing files or a project
+but you might get errors or unwated results so you can go back easily to 
+a functioning state.
+
+---------------------------------------------------------------------------
