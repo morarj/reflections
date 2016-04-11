@@ -12,3 +12,34 @@ to put into a new commit. Offers your the versatility to choose which
 files you're going to put into your commits.
 
 ---------------------------------------------------------------------------
+How can you use the staging area to make sure you have one commit per 
+logical change?
+Using the staging area helps in getting ona commit per logical change by
+adding just the files you want to updat, no more.
+
+---------------------------------------------------------------------------
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+When you are testing new features which were not planned for the original
+project.
+
+---------------------------------------------------------------------------
+How do the diagrams help you visualize the branch structure?
+The diagramas help to visualize how many branches your structure has and
+which are important ore been work on.
+
+---------------------------------------------------------------------------
+What is the result of merging two branches together? Why do we represent 
+it in the diagram the way we do?
+The changes on both branches are merged, deletions and aditions are
+respected to create a new version of the project.
+
+The diagram helps by making the graph more visually understandable for
+humans and keep track of our branches.
+
+---------------------------------------------------------------------------
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+Automatic merges help if your files dont overlap. If there is nothing to 
+check then why would we? We may always need to make manual merges but if 
+there is no need then we shouldnt waste time on it.
