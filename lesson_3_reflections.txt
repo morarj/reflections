@@ -4,3 +4,20 @@ Its usefull when you are working with someone or in different machines,
 keeping your branches remote you are able to work that way.
 
 ---------------------------------------------------------------------------
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+It may be usefull in case someone made a non wanted change you choose not
+to make that pull, or simply its not your project.
+
+---------------------------------------------------------------------------
+Describe the differences between forks, clones, and branches. When would 
+you use one instead of another?
+	Forks are used when you want to use another person's repository.
+
+	Clones are mostly used tu clone a github repository to your local 
+	machine.
+
+	Branches are use to try new addition to our projects that aren't 
+	originally in our plans.
+
+---------------------------------------------------------------------------
