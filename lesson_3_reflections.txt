@@ -17,7 +17,24 @@ you use one instead of another?
 	Clones are mostly used tu clone a github repository to your local 
 	machine.
 
-	Branches are use to try new addition to our projects that aren't 
+	Branches are used to try new addition to our projects that aren't 
 	originally in our plans.
 
 ---------------------------------------------------------------------------
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+The benefit is to know when our local repositories are or aren't synced
+with GitHub.
+
+---------------------------------------------------------------------------
+How would you collaborate without using Git or GitHub? What would be 
+easier, and what would be harder?
+My team used Onedrive to collaborate on a school project. I can tell you
+Git and Github would've been so much easier to use to collaborate with my
+teammates.
+
+---------------------------------------------------------------------------
+When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+Branches are use to try new addition to our projects that aren't 
+originally in our plans.
